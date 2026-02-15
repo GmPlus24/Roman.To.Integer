@@ -1,0 +1,1 @@
+pyuic6 RomanToInteger.ui -o RomanToIntegerUI.py
