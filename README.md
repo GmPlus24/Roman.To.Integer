@@ -11,8 +11,9 @@ It converts Roman numerals to integers quickly and easily.
 ## Screenshots
 ![Main Window](assets/screenshot1.png)
 
-Python Website: https://www.python.org/  
-Qt Website: https://www.qt.io/  
+## Technologies
+- [Python](https://www.python.org/)  
+- [PyQt](https://www.qt.io/)
 
 ## License
 CC License: Roman To Integer © 2024 by Gm is licensed under CC BY-SA 4.0
