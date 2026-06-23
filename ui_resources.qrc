@@ -1,0 +1,19 @@
+<RCC>
+  <qresource>
+	<file alias="roman_to_integer_ui.ui">roman_to_integer_ui.ui</file>
+	
+	<file alias="roman_to_integer_icon.png">icons/roman_to_integer_icon.png</file>
+	<file alias="roman_to_integer_icon.ico">icons/roman_to_integer_icon.ico</file>
+	
+	
+	<file alias="backspace_icon.png">icons/backspace_icon.png</file>
+    <file alias="copy_icon.png">icons/copy_icon.png</file>
+    <file alias="information_icon.png">icons/information_icon.png</file>
+	<file alias="qt_icon.png">icons/qt_icon.png</file>
+
+	
+	
+
+  </qresource>
+  <qresource prefix="newPrefix"/>
+</RCC>
