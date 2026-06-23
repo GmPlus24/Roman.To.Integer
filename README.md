@@ -9,7 +9,7 @@ It converts Roman numerals to integers quickly and easily.
 - Easy to use for beginners and advanced users
 
 ## Screenshots
-![Main Window](assets/screenshot1.png)
+![Main Window](assets/screenshot.png)
 
 ## Technologies
 - [Python](https://www.python.org/)  
